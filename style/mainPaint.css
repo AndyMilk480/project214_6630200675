@@ -1,0 +1,11 @@
+.addImageBody{
+    background-image: linear-gradient(0deg, rgba(3, 3, 3, 0.5), rgba(3, 3, 3, 0.5)), url(./myImg/BackgroundImg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+*{
+    color: #ffffff;
+    font-family: "IBM Plex Sans Thai Looped", sans-serif;
+}

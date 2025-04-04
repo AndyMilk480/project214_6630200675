@@ -1,0 +1,25 @@
+{
+  "Student": {
+    "studentname": "Anderas Netzel",
+    "studentID": "6630200675",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "school": "สวายวิทยาคาร"
+  },
+  "subjects": [
+    {
+      "id": "d95f",
+      "subjectID": "01418214",
+      "subjectname": "Practicum in Software Development",
+      "credit": 3,
+      "grade": "A",
+      "active": false
+    },
+    {
+      "id": "704d",
+      "subjectID": "01418221",
+      "subjectname": "Database",
+      "credit": 3,
+      "grade": "A"
+    }
+  ]
+}
